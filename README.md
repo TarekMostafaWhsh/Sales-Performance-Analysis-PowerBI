@@ -1,21 +1,8 @@
-📄 README.md (جاهز تنسخه)
 Sales Performance Analysis — Power BI | Excel | Power Query
 📌 Project Overview
 
 This project analyzes 2024–2025 sales performance using Excel Power Query and a Power BI dashboard.
 It includes data modeling (Star Schema), cleaning, transformation, DAX measures, and business insights.
-
-📁 Project Structure
-
-Data/ → Raw + cleaned Excel model
-
-PowerQuery/ → M code + cleaning steps
-
-PowerBI/ → Dashboard PBIX + DAX
-
-Documentation/ → Full PDF report
-
-Screenshots/ → Dashboard visuals
 
 🛠 Tools Used
 
@@ -26,8 +13,6 @@ Power Query
 Power BI Desktop
 
 DAX
-
-M Language
 
 🔧 Data Model (Star Schema)
 
